@@ -20,7 +20,7 @@
 2. Entrar no diretório do repositório recém clonado: ``` cd js-unit-tests ``` 
 3. Executar o comando ``` npm install ``` para instalar as dependências necessárias
 > Executando as funções:
-1. Abrir os arquivos dentro do diretório ``` src ``` 
-2. Executar as funções presentes respeitando as regras de negócio já estabelecidas
+4. Abrir os arquivos dentro do diretório ``` src ``` 
+5. Executar as funções presentes respeitando as regras de negócio já estabelecidas
 > Executando os testes:
-1. Executar o comando ``` npm test ```
+6. Executar o comando ``` npm test ```
