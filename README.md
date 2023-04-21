@@ -3,7 +3,6 @@
 * Projeto individual realizado no bloco de Fundamentos do curso de desenvolvimento Web da
 <a href="https://www.betrybe.com/">Trybe</a>
 ## 🎯 Objetivos: 
-* Aplicar o versionamento de códigos com o uso dos princípios do Git e GitHub 
 * Realizar pequenos desafios técnicos através dos fundamentos da linguagem JavaScript
 * Dar os primeiros passos na realização de testes unitários através do framework Jest
 ## 🖥️ Tecnologias:
@@ -12,6 +11,7 @@
 > <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height=40 alt="JavaScript icon"/>
 > <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height=40 alt="Jest icon"/>
 ## 🧠 Desafios e aprendizados:
+* Aplicar o versionamento de códigos com o uso dos princípios do Git e GitHub 
 * Fazer uso de um novo framework voltado para testes aliado a progressão do uso da lógica de programação
 ## 👨‍💻 Como executar: 
 ⚠️ Recomenda-se o download e utilização do Visual Studio Code e NodeJS ⚠️
